@@ -1,7 +1,7 @@
 ### Installation
 
 ```
-git clone https://github.com/FaztWeb/django-portfolio-simple.git
+git clone https://github.com/Marcentella/Portfolio
 cd django-portfolio-simple
 pip install -r requirements.txt
 python manage.py runserver
